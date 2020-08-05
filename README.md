@@ -1,7 +1,7 @@
 ### Hi there, I'm Gunaya 👋
 
 ## I'm a Developer !
-- I’m currently learning everything 🤣
+- I’m currently learning everything
 - I'm a Web Developer, Machine Learning, and Data Science Enthusiast 
 - Fresh Graduate Student with A Bachelor's Degree in Information Technology
 
