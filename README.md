@@ -4,6 +4,7 @@
 - I’m currently learning everything
 - I'm a Web Developer, Machine Learning, and Data Science Enthusiast 
 - Fresh Graduate Student with A Bachelor's Degree in Information Technology
+- Public repos for personal projects, important and client projects goes to private repos
 
 ### Connect with me:
 
