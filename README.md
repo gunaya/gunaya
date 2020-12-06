@@ -3,7 +3,7 @@
 ## I'm a Developer !
 - Currently learning everything
 - I'm a Web Developer, Machine Learning, and Data Science Enthusiast 
-- Fresh Graduate Student with A Bachelor's Degree in Information Technology
+- Bachelor's Degree in Information Technology
 - Public repos for personal projects, important projects goes to private repos
 
 ### Connect with me:
