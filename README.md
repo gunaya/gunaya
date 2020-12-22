@@ -1,6 +1,6 @@
 ### Hi there, I'm Gunaya 👋
 
-## I'm a Developer !
+## I'm a Web Developer !
 - Currently learning everything
 - I'm a Web Developer, Machine Learning, and Data Science Enthusiast 
 - Bachelor's Degree in Information Technology
@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gunaya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Gunaya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gunaya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Gunaya | Twitter" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
+[<img align="left" alt="Gunaya | LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gunaya | Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />][telegram]
 
 <br />
 
@@ -33,8 +33,9 @@
 
 ---
 
-<img align="left" alt="Gunaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gunaya&show_icons=true&hide_border=true" />
+<img align="left" alt="Gunaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gunaya&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
 
-[twitter]: https://twitter.com/bukan_gunaya
+[twitter]: https://twitter.com/not_zucc
 [instagram]: https://instagram.com/bukan_gunaya
 [linkedin]: https://linkedin.com/in/gunaya-wayan
+[telegram]: https://t.me/bukan_gunaya
