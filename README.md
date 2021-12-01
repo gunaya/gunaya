@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer !
 - Currently learning everything
-- I'm also Machine Learning and Data Science Enthusiast 
+- Machine Learning and Data Science Enthusiast 
 - Bachelor's Degree in Information Technology
 - Public repos for personal projects, important projects goes to private repos
 
