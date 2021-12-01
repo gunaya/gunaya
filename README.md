@@ -2,15 +2,15 @@
 
 ## I'm a Web Developer !
 - Currently learning everything
-- I'm a Web Developer, Machine Learning, and Data Science Enthusiast 
+- I'm also Machine Learning and Data Science Enthusiast 
 - Bachelor's Degree in Information Technology
 - Public repos for personal projects, important projects goes to private repos
 
 ### Connect with me:
 
-[<img align="left" alt="Gunaya | Twitter" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
-[<img align="left" alt="Gunaya | LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gunaya | Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />][telegram]
+[<img align="left" alt="Twitter" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="Telegram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />][telegram]
 
 <br />
 
@@ -22,7 +22,7 @@
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" />
+<img align="left" alt="Nuxt" width="26px" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -35,7 +35,7 @@
 
 <img align="left" alt="Gunaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gunaya&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" />
 
-[twitter]: https://twitter.com/not_zucc
+[twitter]: https://twitter.com/bukan_gunaya
 [instagram]: https://instagram.com/bukan_gunaya
 [linkedin]: https://linkedin.com/in/gunaya-wayan
 [telegram]: https://t.me/bukan_gunaya
