@@ -34,7 +34,7 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=gunaya&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Andrew Schmelyun's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=gunaya&count_private=true&theme=dracula&show_icons=true" alt="Andrew Schmelyun's GitHub Stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
